@@ -1,2 +1,1 @@
 # vimrc
-vim config file
